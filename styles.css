@@ -1,0 +1,39 @@
+body{
+ background-image: url("images/soundcloud1.jpg");
+}
+
+header{
+ margin: auto;
+ text-align: center;
+}
+
+h1{
+ color: white;
+ padding-top: 10vh;
+ font-size: 100px;
+}
+.search, .player{
+ text-align: center;
+}
+#SearchField{
+ width: 40vw;
+ height: 10vh;
+ font-size: 40px;
+}
+.image{
+ color: white;
+ text-align: center;
+ width: 200vw;
+ height: 12vh;
+}
+#results-container{
+ font-size: 80px;
+ color: white;
+}
+.play-button{
+ background-image: url("images/firefooter.jpg");
+ color: white;
+ font-size: 50px;
+ width: 10vw;
+ height: 10vh;
+}
